@@ -1,7 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 int mfila;
-//Hola esta prueba es de github
+
 // Función para convertir una cadena en un vector de enteros
 vector<int> VecXOrdenar(string l) {
     vector<int> L;
